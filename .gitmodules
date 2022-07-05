@@ -1,0 +1,3 @@
+[submodule "code/modules/Formatter"]
+	path = code/modules/Formatter
+	url = https://github.com/GoalPioneers/Formatter.git
